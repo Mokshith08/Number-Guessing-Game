@@ -7,21 +7,13 @@ After each guess, the game provides hints — whether the guessed number is too 
 🧩 Features
 
 Random number generation using rand() and time()
-
 Interactive gameplay through user input
-
 Feedback after each guess
-
 Tracks the total number of attempts
-
 Beginner-friendly C program demonstrating:
-
 Loops (while)
-
 Conditional statements (if-else)
-
 Random number generation
-
 Standard I/O handling
 
 🖥️ How to Run
@@ -51,11 +43,7 @@ You guessed the number (7) in 3 attempts...
 🧠 Concepts Used
 
 rand() and srand() for random number generation
-
 time(NULL) to seed the random generator
-
 Input handling with scanf()
-
 Conditional logic for comparisons
-
 Loops for repeated guessing
