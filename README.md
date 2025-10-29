@@ -69,7 +69,3 @@ You guessed the number (7) in 3 attempts...
 - Loops for repeated guessing
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
